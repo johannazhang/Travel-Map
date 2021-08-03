@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    font-family: 'Lexend', sans-serif;
+    font-weight: 300;
+}
+
+#map {
+    width: 80vw;
+    height: 70vh;
+    margin: auto;
+}
+
+body {
+  background: WhiteSmoke;
+}
+
+footer p {
+  text-align: center;
+  font-family: 'Lexend', sans-serif;
+  font-weight: 300;
+  font-style: italic;
+  color: grey;
+}
+
+.gm-style-iw-d {
+    font-family: 'Lexend', sans-serif;
+    font-weight: 600;
+    text-align: center; 
+    font-size: 16px;
+}
